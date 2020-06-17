@@ -1,1 +1,2 @@
-# Awesome
+Simple-Linear-Regression- for beginners
+
